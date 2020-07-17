@@ -10,4 +10,4 @@ release 2.0 changes
 
 feature 3 changes new
 
-feature 4
+feature 7
